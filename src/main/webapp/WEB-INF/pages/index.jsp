@@ -4,7 +4,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Plasma - Multi-Purpose HTML Template</title>
+    <title>UpSchool - Você estuda no seu tempo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
 
     <!-- Loading Bootstrap -->
@@ -168,7 +168,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="span12">
-					<h4>Welcome to <span class="bold">Plasma</span>. <span class="colDefault">Clean and Multi-Purpose</span> Template</h4>
+					<h4>Bem vindo ao <span class="bold">UpSchool</span>. <span class="colDefault"> Diversos cursos</span> para você.</h4>
 					<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
 
 					<!--DIVIDER-->
