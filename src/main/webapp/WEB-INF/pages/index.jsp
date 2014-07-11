@@ -65,12 +65,12 @@
 							<nav>
 								<ul class="navMenu inline-list" id="nav"> 
 									<li class="current"><a href="#top">Home</a></li>
-									<li><a href="#about">About</a></li>
-									<li><a href="#service">Service</a></li>
-									<li><a href="#team">Our Team</a></li>
-									<li><a href="#portfolio">Portfolio</a></li>
+									<li><a href="#about">Sobre nós</a></li>
+									<li><a href="#service">Serviços</a></li>
+									<li><a href="#team">Professores</a></li>
+									<li><a href="#portfolio">Portfólio</a></li>
 									<li><a href="#blog">Blog</a></li>
-									<li><a href="#contact">Contact</a></li>
+									<li><a href="#contact">Contato</a></li>
 								</ul>
 								<div class="clearfix"></div>
 							</nav>
@@ -220,7 +220,7 @@
 			<div class="row">
 				<div class="span12">
 					<div class="titleHead">
-						<h3>About Us</h3>
+						<h3>Sobre nós</h3>
 						<p>Nullam ut consectetur dolor. Sed sit amet iaculis nisi. <br/>Mauris elementum non felis et blandit. Vestibulum iaculis quam nec diam.</p>
 					</div>
 					<!--DIVIDER-->
@@ -253,7 +253,7 @@
 
 				<div class="span6">
 					<div class="titleContent">
-						<h6><span>About Plasma</span></h6>
+						<h6><span>Sobre a UpSchool</span></h6>
 					</div>
 					<div class="description">
 						<p><span class="dropcap colDefault">D</span>etiam et vehicula ipsum. Sed nec nunc justo. In eget lacus sapien. Cras ac nisi mauris, eu bibendum est. Sed lacinia, augue vitae cursus iaculis, ligula lacus ornare risus, quis iaculis nisi ligula ut tellus. In feugiat sem eu urna eleifend at pellentesque mi dictum. Nullam ac leo diam semper porttitor et id nibh. Nunc sollicitudin accumsan mauris ullamcorper gravida.</p>
@@ -266,14 +266,14 @@
 
 				<div class="span6 skill">
 					<div class="titleContent">
-						<h6><span>Who we are</span></h6>
+						<h6><span>Cursos mais procurados</span></h6>
 					</div>
 					<ul class="progress-skill-bar">
                         <li>
                             <span class="lable">70%</span>
                             <div class="progress">
                                 <div class="bar" data-value="70" role="progressbar">
-                                    HTML
+                                    Matemática
                                 </div>
                             </div>
                         </li>
@@ -281,7 +281,7 @@
                             <span class="lable">80%</span>
                             <div class="progress">
                                 <div class="bar" data-value="80" role="progressbar">
-                                    CSS
+                                    Programação
                                 </div>
                             </div>
                         </li>
@@ -289,7 +289,7 @@
                             <span class="lable">90%</span>
                             <div class="progress">
                                 <div class="bar" data-value="90" role="progressbar">
-                                    JavaScript
+                                    Inglês
                                 </div>
                             </div>
                         </li>
@@ -297,7 +297,7 @@
                             <span class="lable">80%</span>
                             <div class="progress">
                                 <div class="bar" data-value="80" role="progressbar">
-                                    MySQL
+                                    Português
                                 </div>
                             </div>
                         </li>
@@ -305,7 +305,7 @@
                             <span class="lable">70%</span>
                             <div class="progress">
                                 <div class="bar" data-value="70" role="progressbar">
-                                    PHP
+                                    Redação
                                 </div>
                             </div>
                         </li>
@@ -480,7 +480,7 @@
 			<div class="row">
 				<div class="span12">
 					<div class="titleHead">
-						<h3>Our Services</h3>
+						<h3>Nossos Serviços</h3>
 						<p>Nullam ut consectetur dolor. Sed sit amet iaculis nisi. <br/>Mauris elementum non felis et blandit. Vestibulum iaculis quam nec diam.</p>
 					</div>
 					
@@ -594,7 +594,7 @@
 			<div class="row">
 				<div class="span12">
 					<div class="titleHead">
-						<h3>Our Team</h3>
+						<h3>Professores</h3>
 						<p>Nullam ut consectetur dolor. Sed sit amet iaculis nisi. <br/>Mauris elementum non felis et blandit. Vestibulum iaculis quam nec diam.</p>
 					</div>
 					
@@ -715,7 +715,7 @@
 			<div class="row">
 				<div class="span12">
 					<div class="titleHead">
-						<h3>Our Portfolio</h3>
+						<h3>Portfólio</h3>
 						<p>Nullam ut consectetur dolor. Sed sit amet iaculis nisi. <br/>Mauris elementum non felis et blandit. Vestibulum iaculis quam nec diam.</p>
 					</div>
 					
@@ -1167,7 +1167,7 @@
 			<div class="row">
 				<div class="span12">
 					<div class="titleHead">
-						<h3>Contact Us</h3>
+						<h3>Contato</h3>
 						<p>Nullam ut consectetur dolor. Sed sit amet iaculis nisi. <br/>Mauris elementum non felis et blandit. Vestibulum iaculis quam nec diam.</p>
 					</div>
 					<!--DIVIDER-->

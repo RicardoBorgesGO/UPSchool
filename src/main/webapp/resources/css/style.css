@@ -12,6 +12,9 @@
   font-style: normal;
 }
 
+#steak ul li a {
+	outline: none;
+}
 
 .mTop {
     position: relative;
