@@ -9,7 +9,6 @@
 
     <!-- Loading Bootstrap -->
     <link href="resources/css/style.css" rel="stylesheet">
-<%-- 	<link href="<c:url value='resources/css/style.css' />" rel="stylesheet"> --%>
     <link href="resources/css/bootstrap.css" rel="stylesheet">
     <link href="resources/css/responsive.css" rel="stylesheet">
 
@@ -92,15 +91,18 @@
 								<img src="resources/img/revslider/1.jpg" alt="sa">
 								
 								<div class="tp-caption plasma_def lft" data-x="300" data-y="130" data-speed="700" data-start="1200" data-easing="easeOutExpo">
-									Looks amazing on any device's
+									Todo Conteudo que voce precisa
+									<!-- Looks amazing on any device's -->
 								</div>
 
 								<div class="tp-caption plasma_inverse lfl" data-x="240" data-y="192" data-speed="600" data-start="1900" data-easing="easeOutBack">
-									Using Framwork Bootstrap Template
+									De forma facil, rapida e eficiente
+									<!-- Using Framwork Bootstrap Template -->
 								</div>
 								
 								<div class="tp-caption plasma_white lfb" data-x="300" data-y="254" data-speed="500" data-start="2700" data-easing="easeOutBack">
-									100% Fully Responsive Layout
+									Sao diversos cursos para voce
+									<!-- 100% Fully Responsive Layout -->
 								</div>
 								
 								<div data-easing="easeOutExpo" data-start="3000" data-speed="2500" data-y="320" data-x="530" class="caption lfr vivera_text_def tp-caption start" >
@@ -281,7 +283,7 @@
                             <span class="lable">80%</span>
                             <div class="progress">
                                 <div class="bar" data-value="80" role="progressbar">
-                                    Programação
+                                    Física
                                 </div>
                             </div>
                         </li>
